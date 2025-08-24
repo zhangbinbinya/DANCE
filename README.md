@@ -30,7 +30,7 @@ You could download all the datasets from Google Drive: [Baby/Sports/Clothing](ht
 1. Put your downloaded data (e.g. `Sports`) under ``DANCE/data/Sports`` dir.
 2. Enter `src` folder with ```cd .../DANCE/src```
 3. run with`python main.py -m FREEDOM -d baby`
-4. You may specify other parameters in CMD or config with `configs/model/*.yaml` and `configs/dataset/*.yaml`.
+4. You may specify other parameters in CMD or config with `configs/model/DANCE.yaml` and `configs/dataset/*.yaml`.
 
 ### Performance Comparison
 <p align="center">
