@@ -34,6 +34,6 @@ You could download all the datasets from Google Drive: [Baby/Sports/Clothing](ht
 
 ### Performance Comparison
 <p align="center">
-   <img src="image/ExperimentResult.png" width="700px" height="400px"/>
+   <img src="image/ExperimentResult.png" width="900px" height="500px"/>
 </p>
 
