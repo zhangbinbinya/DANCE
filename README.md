@@ -8,7 +8,7 @@ This is the Pytorch implementation for our paper: Dual Alignment with Contrastiv
 
 The structure of our model is available for viewing in the following:
 <p align="center">
-   <img src="image/framework.png" width="700px" height="400px"/>
+   <img src="image/Framework.png" width="700px" height="400px"/>
 </p>
 
 
